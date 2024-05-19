@@ -11,10 +11,10 @@ particlesJS("particles-js", {
         opacity: {
         value: 1,
         random: true,
-        anim: { enable: true, speed: 1, opacity_min: 0, sync: false }
+        anim: { enable: true, speed: 1, opacity_min: 0.5, sync: false }
         },
         size: {
-        value: 3,
+        value: 4,
         random: true,
         anim: { enable: false, speed: 4, size_min: 0.3, sync: false }
         },
